@@ -2838,9 +2838,9 @@ decamelize@^1.1.1, decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.3.0:
   version "3.3.0"
@@ -4235,6 +4235,13 @@ gotrue-js@^0.9.24:
   version "0.9.25"
   resolved "https://registry.yarnpkg.com/gotrue-js/-/gotrue-js-0.9.25.tgz#eb9a3c76a2d08629afcda7872a60924d5d671c6a"
   integrity sha512-W3U3TqItiHfpYODlH8hA7dwnui9pu4iDsDbE7UuqS/ODJ5r3/+nlBe30ir4cemRMy16oyPpuvq23l9EjiCD7kg==
+  dependencies:
+    micro-api-client "^3.2.1"
+
+gotrue-js@^0.9.25:
+  version "0.9.29"
+  resolved "https://registry.yarnpkg.com/gotrue-js/-/gotrue-js-0.9.29.tgz#08e62184d4eaadcd87f95cb6e49e3c4a9742a052"
+  integrity sha512-NSFwJlFfWxHd1zHDitysbh+amFPHBAyQG1YmecZJTaSe8TlC7Wja1ewdUBikfJBblN3SqghS6aViMd+Q/pPzGQ==
   dependencies:
     micro-api-client "^3.2.1"
 
